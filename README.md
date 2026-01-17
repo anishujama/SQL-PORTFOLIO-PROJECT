@@ -1,6 +1,6 @@
-💻 Dataset
+Dataset
 
-Source: 
+Source: census india 
 
 Format: CSV 
 
@@ -10,7 +10,7 @@ Table1: Dataset1
 
 Table2: Dataset2
 
-🔍 Key Features & Queries
+ Key Features & Queries
 
 Aggregation using SUM, AVG, COUNT, MAX, MIN
 
@@ -26,7 +26,7 @@ Ranking queries using ROW_NUMBER() or RANK()
 
 Creation of views and summary tables
 
-📝 Example Insights
+ Example Insights
 
 Top 5 states/districts by growth, literacy
 
